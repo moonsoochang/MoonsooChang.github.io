@@ -8,21 +8,25 @@ jobs:
   build-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      # 1. 코드 체크아웃
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           submodules: true
           fetch-depth: 0
 
+      # 2. Hugo 설치
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
           extended: true
 
+      # 3. 사이트 빌드
       - name: Build
         run: hugo --minify
 
+      # 4. gh-pages 브랜치로 배포
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
