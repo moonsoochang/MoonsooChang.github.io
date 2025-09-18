@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>My New Hugo Site</title><link>https://moonsoochang.github.io/</link><description>Recent content on My New Hugo Site</description><generator>Hugo -- 0.150.0</generator><language>en-us</language><lastBuildDate/><atom:link href="https://moonsoochang.github.io/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>My New Hugo Site</title><link>https://moonsoochang.github.io/</link><description>Recent content on My New Hugo Site</description><generator>Hugo -- 0.150.0</generator><language>ko-kr</language><lastBuildDate>Thu, 18 Sep 2025 22:55:26 +0900</lastBuildDate><atom:link href="https://moonsoochang.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Deep Work</title><link>https://moonsoochang.github.io/books/deep-work/</link><pubDate>Thu, 18 Sep 2025 22:55:26 +0900</pubDate><guid>https://moonsoochang.github.io/books/deep-work/</guid><description>&lt;p&gt;책 요약:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;집중 상태에서 높은 생산성을 내는 방법&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;느낀 점:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;습관을 Deep Work 시간에 포함하자&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>노트</title><link>https://moonsoochang.github.io/til/first-note/</link><pubDate>Thu, 18 Sep 2025 22:55:12 +0900</pubDate><guid>https://moonsoochang.github.io/til/first-note/</guid><description>&lt;ul&gt;
+&lt;li&gt;Hugo PaperMod 설치&lt;/li&gt;
+&lt;li&gt;GitHub Action 배포&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
