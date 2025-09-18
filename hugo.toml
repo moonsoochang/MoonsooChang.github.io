@@ -1,0 +1,15 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "PaperMod"
+
+[menu]
+  [[menu.main]]
+    name = "TIL"
+    url = "/til/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Book Review"
+    url ="/books/"
+    weight = 2
