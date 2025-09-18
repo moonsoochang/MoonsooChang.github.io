@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tils on My New Hugo Site</title>
+    <link>http://localhost:1313/til/</link>
+    <description>Recent content in Tils on My New Hugo Site</description>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Thu, 18 Sep 2025 22:55:12 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/til/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>노트</title>
+      <link>http://localhost:1313/til/first-note/</link>
+      <pubDate>Thu, 18 Sep 2025 22:55:12 +0900</pubDate>
+      <guid>http://localhost:1313/til/first-note/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Hugo PaperMod 설치&lt;/li&gt;
+&lt;li&gt;GitHub Action 배포&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
